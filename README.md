@@ -47,8 +47,8 @@ This project demonstrates a simple yet effective implementation of a Logistic Re
 - ✅ Decision boundaries clearly separate classes visually
 - ✅ Visualisation of the training set
 - <img width="597" height="455" alt="image" src="https://github.com/user-attachments/assets/4a41e77c-ed89-49b3-ad4e-16465fbdb16f" />
-
 -✅ Visualisation of the testing set
+
 -<img width="598" height="455" alt="image" src="https://github.com/user-attachments/assets/8f63771b-aab7-49fc-963f-2952bc5996aa" />
 
 
